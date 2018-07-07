@@ -1,0 +1,50 @@
+﻿Построение начато 26.05.2017 4:49:27.
+     1>Проект "C:\Users\0\documents\visual studio 2012\Projects\Game\TankBattle\TankBattle.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Новая папка\VC\bin\CL.exe /c /I"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\include" /I"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /D WIN32 /D _DEBUG /D _CONSOLE /D SFML_DYMANIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(64): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(148): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(149): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(189): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(246): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(267): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(268): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(269): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(270): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(313): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(322): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(344): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(345): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\bullet.h(14): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\enemy.h(14): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\enemy.h(84): warning C4258: x: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 c:\users\0\documents\visual studio 2012\projects\game\tankbattle\enemy.h(70): пропуск определения "x"
+                 c:\users\0\documents\visual studio 2012\projects\game\tankbattle\entity.h(21): используется определение "Entity::x"
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\enemy.h(169): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\player.h(62): warning C4305: -=: усечение из "double" к "float"
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\player.h(63): warning C4305: +=: усечение из "double" к "float"
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\player.h(80): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\player.h(85): warning C4305: =: усечение из "double" к "float"
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\play.h(90): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\0\documents\visual studio 2012\projects\game\tankbattle\level.h(316): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+         E:\Новая папка\VC\bin\CL.exe /c /I"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYMANIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Unit.cpp
+         Unit.cpp
+       Link:
+         E:\Новая папка\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0\documents\visual studio 2012\Projects\Game\Debug\TankBattle.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\0\documents\visual studio 2012\Projects\Game\Debug\TankBattle.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0\documents\visual studio 2012\Projects\Game\Debug\TankBattle.lib" /MACHINE:X86 Debug\main.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\Unit.obj
+     1>main.obj : error LNK2001: неразрешенный внешний символ ""struct testS1 tt" (?tt@@3UtestS1@@A)"
+     1>Unit.obj : error LNK2001: неразрешенный внешний символ ""struct testS1 tt" (?tt@@3UtestS1@@A)"
+     1>C:\Users\0\documents\visual studio 2012\Projects\Game\Debug\TankBattle.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+     1>Построение проекта "C:\Users\0\documents\visual studio 2012\Projects\Game\TankBattle\TankBattle.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:08.27
