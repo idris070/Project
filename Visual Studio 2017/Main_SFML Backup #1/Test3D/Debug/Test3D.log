@@ -1,0 +1,19 @@
+﻿  Util.cpp
+  Texture.cpp
+d:\project\visual studio 2017\main_sfml backup #1\test3d\texture.h(26): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  Technique.cpp
+  Skinning_technique.cpp
+  Skinned_mesh.cpp
+d:\project\visual studio 2017\main_sfml backup #1\test3d\texture.h(26): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  Pipeline.cpp
+  Mesh.cpp
+d:\project\visual studio 2017\main_sfml backup #1\test3d\texture.h(26): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  Math_3d.cpp
+  MainTutorial.cpp
+d:\project\visual studio 2017\main_sfml backup #1\test3d\texture.h(26): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  main.cpp
+d:\project\visual studio 2017\main_sfml backup #1\test3d\texture.h(26): fatal error C1083: Не удается открыть файл включение: Magick++.h: No such file or directory,
+  lighting_technique.cpp
+  Camera.cpp
+  App.cpp
+  Создание кода...

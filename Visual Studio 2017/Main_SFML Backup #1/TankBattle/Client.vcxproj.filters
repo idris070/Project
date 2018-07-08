@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов\TinyXML">
+      <UniqueIdentifier>{7970c6b6-0f1f-4d3d-8d9f-06dc14f2da29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Объекты">
+      <UniqueIdentifier>{88a19db4-6f9d-4848-9d47-ff1b74cac18e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Level">
+      <UniqueIdentifier>{fcae40cf-8959-4775-80f8-a254fd1bb04f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Packet">
+      <UniqueIdentifier>{2c0baa2b-05c1-41d5-af14-2f231512663a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\ImGui">
+      <UniqueIdentifier>{3e26851f-5fac-4647-9d02-af041bfa6ece}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Bullet.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemy.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Entity.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Explosion.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Player.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ReceiveEntity.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Track.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Wall.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TinyXML\tinystr.cpp">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TinyXML\tinyxml.cpp">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TinyXML\tinyxmlerror.cpp">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TinyXML\tinyxmlparser.cpp">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="mainClient.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="networkClient.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="src\level.cpp">
+      <Filter>Файлы ресурсов\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Unit.cpp">
+      <Filter>Заголовочные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="src\LoadResources.cpp">
+      <Filter>Заголовочные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Packet.cpp">
+      <Filter>Файлы исходного кода\Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idris\OneDrive\Documents\GitHub\imguiTankBattle\imgui.cpp">
+      <Filter>Файлы исходного кода\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idris\OneDrive\Documents\GitHub\imguiTankBattle\imgui_demo.cpp">
+      <Filter>Файлы исходного кода\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idris\OneDrive\Documents\GitHub\imguiTankBattle\imgui_draw.cpp">
+      <Filter>Файлы исходного кода\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\idris\OneDrive\Documents\GitHub\imguiTankBattle\imgui-SFML.cpp">
+      <Filter>Файлы исходного кода\ImGui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Bullet.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Enemy.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Entity.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Explosion.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Player.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ReceiveEntity.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Track.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Wall.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Objects.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TinyXML\tinystr.h">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TinyXML\tinyxml.h">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="src\level.h">
+      <Filter>Файлы ресурсов\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="playClient.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Unit.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="src\LoadResources.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Packet.h">
+      <Filter>Файлы исходного кода\Packet</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

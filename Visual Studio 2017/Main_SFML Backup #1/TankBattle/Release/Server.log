@@ -1,0 +1,29 @@
+﻿E:\Програмы\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (Client.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  mainServer.cpp
+mainServer.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Clients.cpp
+Server\Clients.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Bullet.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\Entity.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Enemy.cpp
+src\Enemy.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Entity.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\Entity.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Explosion.cpp
+src\Explosion.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  level.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.h(9): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  LoadResources.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\LoadResources.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Player.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\Entity.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Track.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\Entity.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Unit.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\Unit.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Wall.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\Entity.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
