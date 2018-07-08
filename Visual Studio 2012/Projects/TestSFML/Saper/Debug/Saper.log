@@ -1,0 +1,42 @@
+﻿Построение начато 05.04.2017 1:31:16.
+     1>Проект "C:\Users\0\Documents\Visual Studio 2012\Projects\TestSFML\Saper\Saper.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Новая папка\VC\bin\CL.exe /c /I"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /D WIN32 /D _DEBUG /D _CONSOLE /D SFML_DYMANIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\func.h(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\func.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\func.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\func.h(39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\func.h(40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\func.h(94): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(6): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(70): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(71): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(97): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(148): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(151): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(156): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(157): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(158): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(159): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(160): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(161): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(162): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(163): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(164): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\0\documents\visual studio 2012\projects\testsfml\saper\main.cpp(165): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+       Link:
+         E:\Новая папка\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0\Documents\Visual Studio 2012\Projects\TestSFML\Debug\Saper.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\0\Documents\Visual Studio 2012\Projects\TestSFML\Debug\Saper.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0\Documents\Visual Studio 2012\Projects\TestSFML\Debug\Saper.lib" /MACHINE:X86 Debug\func.obj
+         Debug\main.obj
+         Saper.vcxproj -> C:\Users\0\Documents\Visual Studio 2012\Projects\TestSFML\Debug\Saper.exe
+     1>Построение проекта "C:\Users\0\Documents\Visual Studio 2012\Projects\TestSFML\Saper\Saper.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.93
