@@ -1,0 +1,11 @@
+﻿Построение начато 25.03.2017 13:25:05.
+     1>Проект "C:\Users\0\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Новая папка\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+     1>Построение проекта "C:\Users\0\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:00.47
