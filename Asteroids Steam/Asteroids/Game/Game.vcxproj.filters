@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Objects">
+      <UniqueIdentifier>{85271137-a367-4e61-a1fd-5db05bdf1239}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\3D">
+      <UniqueIdentifier>{ef7ba10a-e7f8-4026-bf54-b38280592af7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\LoadResources.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Objects.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Unit.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Bullet.h">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="src\3D\Camera.h">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Enemy.h">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Entity.h">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Explosion.h">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Player.h">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="src\3D\Mesh.h">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="src\3D\Math_3d.h">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="src\3D\Pipeline.h">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="src\3D\lighting_technique.h">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="src\3D\Util.h">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="src\3D\Technique.h">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="src\3D\Skinning_technique.h">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="src\3D\Skinned_mesh.h">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Achivements.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="playClient.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="playClient.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="src\LoadResources.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Objects.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Unit.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3D\Camera.cpp">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3D\lighting_technique.cpp">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3D\Math_3d.cpp">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3D\Mesh.cpp">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3D\Pipeline.cpp">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3D\Skinned_mesh.cpp">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3D\Skinning_technique.cpp">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3D\Technique.cpp">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\3D\Util.cpp">
+      <Filter>Файлы ресурсов\3D</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Bullet.cpp">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemy.cpp">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Entity.cpp">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Player.cpp">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Explosion.cpp">
+      <Filter>Файлы ресурсов\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Achivements.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="skinning.vs" />
+    <None Include="skinning.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Рисунки\StarAdvent\SpaceShip32.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

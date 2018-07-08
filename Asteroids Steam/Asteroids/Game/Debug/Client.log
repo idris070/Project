@@ -1,0 +1,6 @@
+﻿  playClient.cpp
+d:\project\visual studio 2017\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+d:\project\visual studio 2017\main_sfml\tankbattle\playclient.cpp(320): warning C4018: <: несоответствие типов со знаком и без знака
+  Client.vcxproj -> D:\Project\Visual Studio 2017\Main_SFML\Debug\Client.exe

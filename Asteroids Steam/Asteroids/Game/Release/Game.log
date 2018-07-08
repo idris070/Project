@@ -1,0 +1,54 @@
+﻿  Achivements.cpp
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(45): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note:  см. объявление "strncpy"
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note:  см. объявление "strncpy"
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(161): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1959): note:  см. объявление "_snprintf"
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(246): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note:  см. объявление "strncpy"
+Achivements.cpp(65): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1959): note:  см. объявление "_snprintf"
+Achivements.cpp(68): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1959): note:  см. объявление "_snprintf"
+Achivements.cpp(76): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1959): note:  см. объявление "_snprintf"
+Achivements.cpp(94): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1959): note:  см. объявление "_snprintf"
+  main.cpp
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(45): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note:  см. объявление "strncpy"
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note:  см. объявление "strncpy"
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(161): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1959): note:  см. объявление "_snprintf"
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(246): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note:  см. объявление "strncpy"
+  playClient.cpp
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(45): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note:  см. объявление "strncpy"
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(47): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note:  см. объявление "strncpy"
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(161): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1959): note:  см. объявление "_snprintf"
+d:\project\asteroids steam\include\steam\matchmakingtypes.h(246): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note:  см. объявление "strncpy"
+playClient.cpp(242): warning C4305: аргумент: усечение из "double" в "float"
+playClient.cpp(250): warning C4101: countA: неиспользованная локальная переменная
+  Camera.cpp
+  lighting_technique.cpp
+  Math_3d.cpp
+  Mesh.cpp
+  Pipeline.cpp
+  Skinned_mesh.cpp
+  Skinning_technique.cpp
+  Technique.cpp
+  Util.cpp
+  Bullet.cpp
+  Enemy.cpp
+  Entity.cpp
+  Explosion.cpp
+  LoadResources.cpp
+  Objects.cpp
+  Player.cpp
+  Unit.cpp
