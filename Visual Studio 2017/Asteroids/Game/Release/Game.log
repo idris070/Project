@@ -1,0 +1,49 @@
+﻿  main.cpp
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  playClient.cpp
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+playClient.cpp(617): warning C4101: spawn01: неиспользованная локальная переменная
+  Camera.cpp
+  lighting_technique.cpp
+  Math_3d.cpp
+  Mesh.cpp
+  Pipeline.cpp
+  Skinned_mesh.cpp
+  Skinning_technique.cpp
+  Technique.cpp
+  Util.cpp
+  Bullet.cpp
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Enemy.cpp
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Entity.cpp
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Explosion.cpp
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  LoadResources.cpp
+  Objects.cpp
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Player.cpp
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\project\visual studio 2017\asteroids\game\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Unit.cpp
+  Создание кода
+d:\project\visual studio 2017\asteroids\game\src\loadresources.cpp(79): warning C4715: initMesh: значение возвращается не при всех путях выполнения
+  All 1313 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Game.vcxproj -> D:\Project\Visual Studio 2017\Asteroids\Release\Game.exe
