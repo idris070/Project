@@ -1,0 +1,36 @@
+﻿  mainClient.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\playClient.h(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  networkClient.cpp
+networkClient.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Bullet.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\Entity.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Enemy.cpp
+src\Enemy.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Entity.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\Entity.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Explosion.cpp
+src\Explosion.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  level.cpp
+src\level.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  LoadResources.cpp
+src\LoadResources.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Packet.cpp
+src\Packet.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Player.cpp
+src\Player.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  ReceiveEntity.cpp
+src\ReceiveEntity.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  tinystr.cpp
+src\TinyXML\tinystr.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  tinyxml.cpp
+src\TinyXML\tinyxml.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  tinyxmlerror.cpp
+src\TinyXML\tinyxmlerror.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  tinyxmlparser.cpp
+src\TinyXML\tinyxmlparser.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Track.cpp
+src\Track.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Unit.cpp
+src\Unit.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS
+  Wall.cpp
+src\Wall.cpp : fatal error C1041: невозможно открыть базу данных программы C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\TankBattle\Release\vc141.pdb; если несколько файлов CL.EXE осуществляют запись в один и тот же PDB-файл, воспользуйтесь /FS

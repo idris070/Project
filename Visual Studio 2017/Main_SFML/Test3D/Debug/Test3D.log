@@ -1,0 +1,11 @@
+﻿  MainTutorial.cpp
+d:\project\include\imagemagick-6\magick++\exception.h(22): warning C4275: class "std::exception", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Magick::Exception"
+  d:\програмы\visualstudio 2017\vc\tools\msvc\14.11.25503\include\vcruntime_exception.h(43): note:  см. объявление "std::exception"
+  d:\project\include\imagemagick-6\magick++\exception.h(21): note:  см. объявление "Magick::Exception"
+d:\project\visual studio 2017\main_sfml\test3d\maintutorial.cpp(112): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода...
+d:\project\visual studio 2017\main_sfml\test3d\maintutorial.cpp(70): warning C4715: Init: значение возвращается не при всех путях выполнения
+  Компиляция...
+  App.cpp
+  Создание кода...
+  Test3D.vcxproj -> D:\Project\Visual Studio 2017\Main_SFML\Debug\Test3D.exe

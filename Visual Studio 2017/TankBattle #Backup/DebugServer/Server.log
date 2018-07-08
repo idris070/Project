@@ -1,0 +1,69 @@
+﻿  Wall.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Unit.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\unit.cpp(16): warning C4305: =: усечение из "double" в "float"
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\unit.cpp(25): warning C4305: =: усечение из "double" в "float"
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\unit.cpp(34): warning C4305: =: усечение из "double" в "float"
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\unit.cpp(55): warning C4305: =: усечение из "double" в "float"
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\unit.cpp(65): warning C4305: =: усечение из "double" в "float"
+  Track.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  Player.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\player.cpp(76): warning C4305: -=: усечение из "double" в "float"
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\player.cpp(77): warning C4305: +=: усечение из "double" в "float"
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\player.cpp(109): warning C4305: =: усечение из "double" в "float"
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\player.cpp(110): warning C4305: =: усечение из "double" в "float"
+  LoadResources.cpp
+  level.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(10): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(94): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(95): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(135): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(192): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(213): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(214): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(215): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(216): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(259): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(268): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(288): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(289): warning C4018: <: несоответствие типов со знаком и без знака
+  Explosion.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Entity.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Enemy.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Bullet.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  Clients.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+  mainServer.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\playserver.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\tankbattle\src\level.cpp(262): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> C:\Users\0\OneDrive\Documents\Visual Studio 2017\Projects\Main_SFML\Debug\Server.exe

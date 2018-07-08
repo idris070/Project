@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\test3d\Mesh.h(27): fatal error C1083: Не удается открыть файл включение: SFML\Window.hpp: No such file or directory
+  Mesh.cpp
+c:\users\0\onedrive\documents\visual studio 2017\projects\main_sfml\test3d\Mesh.h(27): fatal error C1083: Не удается открыть файл включение: SFML\Window.hpp: No such file or directory
+  Компиляция...
