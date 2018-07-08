@@ -1,0 +1,11 @@
+﻿Построение начато 20.04.2017 2:13:18.
+     1>Проект "C:\Users\0\documents\visual studio 2012\Projects\Active\Active.vcxproj" в узле 2 (целевые объекты ClCompile).
+     1>ClCompile:
+         E:\Новая папка\VC\bin\CL.exe /c /I"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYMANIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt play.cpp
+         Пропуск... (изменения не обнаружены)
+         play.cpp
+     1>Построение проекта "C:\Users\0\documents\visual studio 2012\Projects\Active\Active.vcxproj" завершено (целевые объекты ClCompile).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.25

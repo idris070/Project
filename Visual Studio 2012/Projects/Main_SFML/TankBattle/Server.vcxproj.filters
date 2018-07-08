@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов\Level">
+      <UniqueIdentifier>{28bfdfae-c967-4c1b-92a9-701f597f1c1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы ресурсов\TinyXML">
+      <UniqueIdentifier>{1aa3972b-6daa-4b78-8573-1d18488b59e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Объекты">
+      <UniqueIdentifier>{c8280603-643d-4e7a-b3f0-89ddc677da15}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\level.cpp">
+      <Filter>Файлы ресурсов\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TinyXML\tinystr.cpp">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TinyXML\tinyxml.cpp">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TinyXML\tinyxmlerror.cpp">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TinyXML\tinyxmlparser.cpp">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Bullet.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemy.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Entity.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Explosion.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Player.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Track.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Wall.cpp">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClCompile>
+    <ClCompile Include="Server\Clients.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="mainServer.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Unit.cpp">
+      <Filter>Заголовочные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="src\LoadResources.cpp">
+      <Filter>Заголовочные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\level.h">
+      <Filter>Файлы ресурсов\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TinyXML\tinystr.h">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TinyXML\tinyxml.h">
+      <Filter>Файлы ресурсов\TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Bullet.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Enemy.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Entity.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Explosion.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Player.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Track.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Wall.h">
+      <Filter>Файлы исходного кода\Объекты</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Objects.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="playServer.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Server\Clients.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Server\Entity.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Unit.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="src\LoadResources.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

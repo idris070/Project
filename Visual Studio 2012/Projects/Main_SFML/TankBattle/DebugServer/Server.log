@@ -1,0 +1,51 @@
+﻿Построение начато 18.09.2017 1:01:25.
+     1>Проект "C:\Users\0\OneDrive\documents\visual studio 2012\Projects\Main_SFML\TankBattle\Server.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Програмы\VisualStudio\VC\bin\CL.exe /c /I"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYMANIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"DebugServer\\" /Fd"DebugServer\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Server\Clients.cpp mainServer.cpp
+         Clients.cpp
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\server\clients.cpp(36): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\server\clients.cpp(37): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\server\clients.cpp(38): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+         Создание кода...
+         Компиляция...
+         mainServer.cpp
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\src\handymathlib\func.h(531): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\src\handymathlib\func.h(532): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\src\handymathlib\quat.h(185): warning C4812: устаревший стиль объявления: используйте "Tmat3<T>::Tmat3" как альтернативу
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\playserver.h(47): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\playserver.h(192): warning C4258: it: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\playserver.h(182): пропуск определения "it"
+                 c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\src\entity.h(45): используется определение "it"
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\playserver.h(193): warning C4258: it: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\playserver.h(182): пропуск определения "it"
+                 c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\src\entity.h(45): используется определение "it"
+     1>c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\playserver.h(194): warning C4258: it: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\playserver.h(182): пропуск определения "it"
+                 c:\users\0\onedrive\documents\visual studio 2012\projects\main_sfml\tankbattle\src\entity.h(45): используется определение "it"
+         Создание кода...
+       Link:
+         E:\Програмы\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0\onedrive\documents\visual studio 2012\Projects\Main_SFML\Debug\Server.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\0\onedrive\documents\visual studio 2012\Projects\Main_SFML\Debug\Server.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0\onedrive\documents\visual studio 2012\Projects\Main_SFML\Debug\Server.lib" /MACHINE:X86 DebugServer\mainServer.obj
+         DebugServer\Clients.obj
+         DebugServer\Bullet.obj
+         DebugServer\Enemy.obj
+         DebugServer\Entity.obj
+         DebugServer\Explosion.obj
+         DebugServer\level.obj
+         DebugServer\LoadResources.obj
+         DebugServer\Player.obj
+         DebugServer\tinystr.obj
+         DebugServer\tinyxml.obj
+         DebugServer\tinyxmlerror.obj
+         DebugServer\tinyxmlparser.obj
+         DebugServer\Track.obj
+         DebugServer\Unit.obj
+         DebugServer\Wall.obj
+         Server.vcxproj -> C:\Users\0\onedrive\documents\visual studio 2012\Projects\Main_SFML\Debug\Server.exe
+     1>Построение проекта "C:\Users\0\OneDrive\documents\visual studio 2012\Projects\Main_SFML\TankBattle\Server.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:07.43

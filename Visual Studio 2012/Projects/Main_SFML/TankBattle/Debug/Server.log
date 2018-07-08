@@ -1,0 +1,24 @@
+﻿Построение начато 15.09.2017 2:49:09.
+     1>Проект "C:\Users\0\OneDrive\documents\visual studio 2012\Projects\Main_SFML\TankBattle\Server.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         E:\Програмы\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0\onedrive\documents\visual studio 2012\Projects\Main_SFML\Debug\Server.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\SFML-2.4.2-windows-vc11-32-bit\SFML-2.4.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\0\onedrive\documents\visual studio 2012\Projects\Main_SFML\Debug\Server.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0\onedrive\documents\visual studio 2012\Projects\Main_SFML\Debug\Server.lib" /MACHINE:X86 Debug\mainServer.obj
+         Debug\Clients.obj
+         Debug\Bullet.obj
+         Debug\Enemy.obj
+         Debug\Entity.obj
+         Debug\Explosion.obj
+         Debug\level.obj
+         Debug\Player.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\Track.obj
+         Debug\Unit.obj
+         Debug\Wall.obj
+         Server.vcxproj -> C:\Users\0\onedrive\documents\visual studio 2012\Projects\Main_SFML\Debug\Server.exe
+     1>Построение проекта "C:\Users\0\OneDrive\documents\visual studio 2012\Projects\Main_SFML\TankBattle\Server.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.75
